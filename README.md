@@ -3,8 +3,8 @@
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/Ruby"><img src="https://img.shields.io/static/v1?label=Ruby&message=Ruby&color=Red" /></a>
-<a href="https://www.britannica.com/technology/COBOL"><img src="https://img.shields.io/badge/COBOL-COBOL-Black" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Ruby"><img src="https://img.shields.io/badge/-Ruby-ffffff?logo=Ruby&logoColor=FF0000" /></a>
+<a href="https://www.britannica.com/technology/COBOL"><img src="https://img.shields.io/badge/-COBOL-00FF00?logo=COBOL&logoColor=000000" /></a>
 - English and French
 - Not yet Mastered 
 - <a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/badge/-Express.js-000000?logo=Express" /></a>
