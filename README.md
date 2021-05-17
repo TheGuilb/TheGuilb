@@ -5,7 +5,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Ruby"><img src="https://img.shields.io/badge/-Ruby-ffffff?logo=Ruby&logoColor=FF0000" /></a>
 <a href="https://www.britannica.com/technology/COBOL"><img src="https://img.shields.io/badge/-COBOL-00FF00?logo=COBOL&logoColor=000000" /></a>
-- English :American Flag: and French ![image](https://user-images.githubusercontent.com/66161669/118560034-ddaab000-b736-11eb-8694-70fbabe227d2.png)
+- English 🏈 and French 🥐
 
 - Not yet Mastered 
     - <a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/badge/-Express.js-000000?logo=Express" /></a>
@@ -18,16 +18,23 @@
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
 ## About Pierre Guilbault
-Born in Atlanta, GA but raised in Vancouver B.C. :Canadian Flag: I have had the fortunate experiences of living in culturally ecclectic cities in North America and Europe. From Vacouver, to New York, and reccently Paris, not only have I lived in large bustling cities, but because of the type of work I have been doing up until now I have been able to travel a lot as well. Before Covid, and still to this day, I was/am a dance artist. I have performed all over Europe and the United States, I have also traveled with work and for pleasure to Asian, Arab, and European countries.
+Born in Atlanta, GA but raised in Vancouver B.C. 🍁 I have had the fortunate experiences of living in culturally ecclectic cities in __North America__ and __Europe__. From _Vacouver_, to _New York_, and reccently _Paris_, not only have I lived in large bustling cities, but because of the type of work I have been doing up until now I have been able to travel a lot as well. Before ~~Covid~~, and still to this day, I was/am a dance artist. I have performed all over Europe and the United States, I have also traveled with work and for pleasure to __Asian__, __Arab__, and __European__ countries.
 
-A year ago, when the pandemic first hit, I was staying with friends in Brittany in the north of France. After a few weeks time started to be plentiful and empty, so I began some self-taught coding research. I started with python, and then quickly added HTML, CSS, COBOL, and eventually Ruby. I thouroughly enjoyed the endless possibilities and the creativity I was able to couple with my analytical and logical interests from school when I was a chemistry and math major.
+A year ago, when the pandemic first hit, I was staying with friends in _Brittany_ in the north of France. After a few weeks __time__ started to be plentiful and empty, so I began some self-taught coding research. I started with python, and then quickly added HTML, CSS, COBOL, and eventually Ruby. I thouroughly enjoyed the endless possibilities and the creativity I was able to couple with my analytical and logical interests from school when I was a _chemistry_ and _math_ major.
 
 It began with an interest to be able to create a webpage for my dance and arts career. It quickly blossomed to a window into the world of opportunity. I realized that I would be able to open so many doors with programming languages, and that perhaps I could add to my life as a dancer and find some stability in this ever changing and unkown future we barrel towards every day. So why not add new tools to my belt to help build the life I want.
 
-Travel has always been a huge passion and excitement in my life. With dancd I was able to do a lot of it, but with things coming to a standstill this last year I realized I needed something new that could guarantee my ability to keep moving around the globe while staying connected and working. Enter the world of programming, something, that in my eyes, would allow me to stay remote and hard at work while exploring the endless wonder of the world. Hello world wont just be my first line of code written, but it will also be my slogan going forward in life. "Hello, world!"
+Travel has always been a huge passion and excitement in my life. With dance I was able to do a lot of it, but with things coming to a standstill this last year I realized I needed something new that could guarantee my ability to keep moving around the globe while staying connected and working. _**Enter**_ the world of programming, something, that in my eyes, would allow me to stay remote and hard at work while exploring the endless wonder of the world.
+
+Hello world wont just be my first line of code written, but it will also be my slogan going forward in life. "Hello, world!"
 
 ## Projects
 - Currently there are no projects as I am studying to become a Software Developer.
 
 ### ToDos
-[] 
+[] Graduate from App Academy
+[] Create world traveler app
+[] Create rehearsal space app
+[] Creat bike trails app
+[] Create Webpage with name not given here to keep trademark rights
+[x] Enjoy Life
