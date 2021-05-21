@@ -17,6 +17,8 @@
 <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
+[![Pierre'ss GitHub stats](https://github-readme-stats.vercel.app/api?username=meagan13&theme=vue-dark)](https://github.com/TheGuilb/github-readme-stats)
+
 ## About Pierre Guilbault
 Born in Atlanta, GA but raised in Vancouver B.C. 🍁 I have had the fortunate experiences of living in culturally ecclectic cities in __North America__ and __Europe__. From _Vacouver_, to _New York_, and reccently _Paris_, not only have I lived in large bustling cities, but because of the type of work I have been doing up until now I have been able to travel a lot as well. Before ~~Covid~~, and still to this day, I was/am a dance artist. I have performed all over Europe and the United States, I have also traveled with work and for pleasure to __Asian__, __Arab__, and __European__ countries.
 
