@@ -4,7 +4,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Ruby"><img src="https://img.shields.io/badge/-Ruby-ffffff?logo=Ruby&logoColor=FF0000" /></a>
-<a href="https://www.britannica.com/technology/COBOL"><img src="https://img.shields.io/badge/-COBOL-00FF00?logo=COBOL&logoColor=000000" /></a>
+<!-- <a href="https://www.britannica.com/technology/COBOL"><img src="https://img.shields.io/badge/-COBOL-00FF00?logo=COBOL&logoColor=000000" /></a> -->
 - English 🏈 and French 🥐
 
 - Not yet Mastered 
