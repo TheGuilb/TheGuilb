@@ -37,6 +37,6 @@ Hello world wont just be my first line of code written, but it will also be my s
 - [] Graduate from App Academy
 - [] Create world traveler app
 - [] Create rehearsal space app
-- [] Creat bike trails app
+- [] Create bike trails app
 - [] Create Webpage with name not given here to keep trademark rights
 - [x] Enjoy Life
