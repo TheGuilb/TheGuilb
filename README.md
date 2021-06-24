@@ -39,4 +39,4 @@ Hello world wont just be my first line of code written, but it will also be my s
 - [ ] Create rehearsal space app
 - [ ] Create bike trails app
 - [ ] Create Webpage with name not given here to keep trademark rights
-- [ ] Enjoy Life
+- [x] Enjoy Life
