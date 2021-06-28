@@ -12,7 +12,7 @@
 ## Languages
 - English 🏈 and French 🥐
 
-- Not yet Mastered 
+## Not yet Mastered 
     - 
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=333333" /></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux" /></a>
