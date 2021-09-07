@@ -17,6 +17,11 @@
 ## Languages
 - English 🏈 and French 🥐
 
+## Projects
+- <a target=“_blank” rel="noreferrer" href='https://askpeeps.herokuapp.com/'>AskPeeps</a>
+- <a target=“_blank” rel="noreferrer" href='https://table--talk.herokuapp.com/'>TableTalk</a>
+- <a target=“_blank” rel="noreferrer" href='https://goodcipa.herokuapp.com/'>GoodCIPA</a>
+
 [![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGuilbotine&theme=vue-dark)](https://github.com/TheGuilbotine/github-readme-stats)
 
 ## About Pierre Guilbault
@@ -29,9 +34,6 @@ It began with an interest to be able to create a webpage for my dance and arts c
 Travel has always been a huge passion and excitement in my life. With dance I was able to do a lot of it, but with things coming to a standstill this last year I realized I needed something new that could guarantee my ability to keep moving around the globe while staying connected and working. _**Enter**_ the world of programming, something, that in my eyes, would allow me to stay remote and hard at work while exploring the endless wonder of the world.
 
 Hello world wont just be my first line of code written, but it will also be my slogan going forward in life. "Hello, world!"
-
-## Projects
-- Currently there are no projects as I am studying to become a Software Developer.
 
 ### ToDos
 - [ ] Graduate from App Academy
