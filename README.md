@@ -1,5 +1,5 @@
-## Portfolio
-<a target=“_blank” rel="noreferrer" href='https://theguilbotine.github.io/Portfolio/'>Portfolio Site</a>
+<!-- ## Portfolio -->
+<a target=“_blank” rel="noreferrer" href='https://theguilbotine.github.io/Portfolio/'><h2>Portfolio Site</h2></a>
 
 <!-- ## Technologies
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
