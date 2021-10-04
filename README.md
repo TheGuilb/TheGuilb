@@ -51,7 +51,15 @@
 - <a target=“_blank” rel="noreferrer" href='https://table--talk.herokuapp.com/'>TableTalk</a>
 - <a target=“_blank” rel="noreferrer" href='https://goodcipa.herokuapp.com/'>GoodCIPA</a>
 
-[![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGuilbotine&theme=vue-dark)](https://github.com/TheGuilbotine/github-readme-stats)
+<!-- [![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGuilbotine&theme=vue-dark)](https://github.com/TheGuilbotine/github-readme-stats) -->
+
+
+[![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGuilbotine&count_private=true&theme=vue-dark)](https://github.com/TheGuilbotine/github-readme-stats)
+
+            
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheGuilbotine&theme=vue-dark)](https://git.io/streak-stats)
+
 
 ## About Pierre Guilbault
 Born in Atlanta, GA but raised in Vancouver B.C. 🍁 I have had the fortunate experiences of living in culturally eclectic cities in __North America__ and __Europe__. From _Vancouver_, to _New York_, and recently _Paris_, not only have I lived in large bustling cities, but because of the type of work I have been doing up until now I have been able to travel a lot as well. Before ~~Covid~~, and still to this day, I was/am a dance artist. I have performed all over Europe and the United States, I have also traveled with work and for pleasure to __Asian__, __Arab__, and __European__ countries.
