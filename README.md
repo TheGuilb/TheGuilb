@@ -74,7 +74,7 @@ Hello world wont just be my first line of code written, but it will also be my s
 
 
 ### ToDos
-- [ ] Graduate from App Academy
+- [x] Graduate from App Academy
 - [ ] Create world traveler app
 - [ ] Create rehearsal space app
 - [ ] Create bike trails app
